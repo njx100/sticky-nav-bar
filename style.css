@@ -1,5 +1,6 @@
 body {
     margin: 0;
+
 }
 
 .top-container {
@@ -30,6 +31,7 @@ body {
     align-items: center;
     box-shadow: 0 4px 8px rgba(0,0,0,.35);
     z-index: 1;
+    transition: background-color 500ms;
 }
 
 .navbar ul {
